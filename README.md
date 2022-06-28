@@ -5,7 +5,7 @@ OpenBullet2 is installed by running one of the following commands in your termin
 #### via Git Clone
 
 ```shell
-git clone https://github.com/roza-rio/openbullet2-installer
+git clone https://github.com/JulesZYTB/openbullet2_install.git
 cd openbullet2-installer
 sudo bash install.sh
 ```
